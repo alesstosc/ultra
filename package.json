@@ -1,0 +1,23 @@
+{
+  "name": "ultra",
+  "version": "0.0.1",
+  "description": "A hello world Node.js app",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": ""
+  "devDependencies": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/ultra"
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "NIA"
+}
